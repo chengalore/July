@@ -71,7 +71,7 @@ if (fs.existsSync(cookiesPath)) {
         });
       });
 
-      // Wait 5 seconds after hiding the elements
+      // Wait 5 seconds after hiding the elementss
       await new Promise((resolve) => setTimeout(resolve, 5000));
 
       // Check if vs-inpage and vs-smart-table are displayed

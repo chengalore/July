@@ -1,0 +1,5 @@
+URL: https://store.tennis365.net/products/10218025920002
+vs-inpage Presence: Present
+vs-smart-table Presence: Present
+next-button Presence: Present
+

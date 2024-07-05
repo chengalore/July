@@ -1,0 +1,14 @@
+[
+  {
+    "storeName": "andar_japan",
+    "name": "user-saw-product",
+    "source": "integration",
+    "externalUserId": "undefined"
+  },
+  {
+    "storeName": "andar_japan",
+    "name": "user-saw-widget-button",
+    "source": "integration",
+    "externalUserId": "undefined"
+  }
+]
